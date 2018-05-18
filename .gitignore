@@ -1,3 +1,14 @@
 graphics/*
 lit/*
 reference_corners/*
+~*
+*.pdf
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.swp
+*.swo
+*.un~
