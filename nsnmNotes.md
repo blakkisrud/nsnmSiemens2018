@@ -40,7 +40,9 @@ Umulig å si - men noe kan jeg si. SPECT er vesentlig bedre enn det var før SPE
 
 ### Mål for kvantitering
 
-Det vi som vi husker var ute etter var å måle aktiviteten i "noe". Dette "noe" er større eller mindre områder av pasienten
+Det vi som vi husker var ute etter var å måle aktiviteten i "noe". Dette "noe" er større eller mindre områder av pasienten. Hvordan vi kan måle "suksessen" av dette i praksis er vanskelig - det blir fort veldig kompleks. Så la oss fokusere på noe enkelt - vi ønsker å måle aktiviteten (i MBq) i et organ inne i pasienten - hvor langt unna (i prosent) er vi den virkelig verdier
+
+(Figur med må
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -49,7 +51,7 @@ Det vi som vi husker var ute etter var å måle aktiviteten i "noe". Dette "noe"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NzU5NTI4LC0xNDYxOTQyNDIxLC0xMz
+eyJoaXN0b3J5IjpbLTI3NTc2MTIyLC0xNDYxOTQyNDIxLC0xMz
 g1MTA2MDgzLDc3NDk2NDYxNCw5MTkyMTcwMjUsMTU0MTI0NDcx
 NSw0NjA0MTAwODUsMTExNDQwMzQ5M119
 -->
