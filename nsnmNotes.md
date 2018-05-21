@@ -36,7 +36,11 @@ Kort motivasjon for dosimetri
 
 ## Hvor er SPECT nå?
 
-Umulig å si - men noe kan jeg si. SPECT er vesentlig bedre enn det var før SPECT og PET skilte sine veier. Attenuasjon har funnet en tilnærmet løsning ved innføringen av SPECT/CT-en. CT-en gjør oss bedre istand til å vite hva som (sannsynligvis) er mellom den radioaktive kilden og detektoren. Spredte fotoner kan korrigeres for på ulike områder jeg ikke skal gå inn på nå - og noe kompens
+Umulig å si - men noe kan jeg si. SPECT er vesentlig bedre enn det var før SPECT og PET skilte sine veier. Attenuasjon har funnet en tilnærmet løsning ved innføringen av SPECT/CT-en. CT-en gjør oss bedre istand til å vite hva som (sannsynligvis) er mellom den radioaktive kilden og detektoren. Spredte fotoner kan korrigeres for på ulike områder jeg ikke skal gå inn på nå - og noe kompensasjon for partiell volumeffekt blir implementert inn i bildesystemet. Ting ser bra ut
+
+### Mål for kvantitering
+
+Det vi som vi husker var ute etter var å måle aktiviteten i "noe". Dette "noe" er større eller mindre områder av pasienten
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -45,7 +49,7 @@ Umulig å si - men noe kan jeg si. SPECT er vesentlig bedre enn det var før SPE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE5NDI0MjEsLTEzODUxMDYwODMsMT
-A1NDI3ODIzNyw3NzQ5NjQ2MTQsOTE5MjE3MDI1LDE1NDEyNDQ3
-MTUsNDYwNDEwMDg1LDExMTQ0MDM0OTNdfQ==
+eyJoaXN0b3J5IjpbMzM5NzU5NTI4LC0xNDYxOTQyNDIxLC0xMz
+g1MTA2MDgzLDc3NDk2NDYxNCw5MTkyMTcwMjUsMTU0MTI0NDcx
+NSw0NjA0MTAwODUsMTExNDQwMzQ5M119
 -->
