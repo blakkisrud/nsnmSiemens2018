@@ -18,7 +18,7 @@ Eksempler der kvantitering er mer eller mindre viktig
 
 SPECT-ens historie
 
-SPECT-en
+SPECT-ens virkem
 
 SPECTens tre verste fiender - attenuasjon, spredning og partiell volumeffekt
 Svært mange 
@@ -26,6 +26,6 @@ Svært mange
 Motivasjon for dosimetri
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDc5OTYwMywtMTAwODU0ODExNCwtNj
-M5NDAyMjg0LC0xMDA4NTQ4MTE0XX0=
+eyJoaXN0b3J5IjpbLTE2MzAxMTkzMTAsMjEyMDc5OTYwMywtMT
+AwODU0ODExNCwtNjM5NDAyMjg0LC0xMDA4NTQ4MTE0XX0=
 -->
