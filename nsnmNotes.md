@@ -38,7 +38,5 @@ Umulig å si - men noe kan jeg si
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDQwMzQ5Myw1OTM3MTIyNTEsLTE5MD
-Y3NzIxNDcsLTEwMDg1NDgxMTQsLTYzOTQwMjI4NCwtMTAwODU0
-ODExNF19
+eyJoaXN0b3J5IjpbMTExNDQwMzQ5M119
 -->
