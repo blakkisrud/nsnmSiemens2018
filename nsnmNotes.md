@@ -46,7 +46,7 @@ Det vi som vi husker var ute etter var å måle aktiviteten i "noe". Dette "noe"
 
 Hvis vi først ser veldig stort på det (linje med 10 %)
 
-OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsomt at denne 10-prosenten dukket opp over et tidspenn på mer enn levealderen min. La oss ta en ti
+OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsomt at denne 10-prosenten dukket opp over et tidspenn på mer enn levealderen min. La oss ta en titt på noen fa
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -55,8 +55,8 @@ OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsom
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMzOTU5NjUsLTEzOTMyMDExODQsLT
-I2MzUwMzQ1MywtMTQ2MTk0MjQyMSwtMTM4NTEwNjA4Myw3NzQ5
+eyJoaXN0b3J5IjpbMTM3MjY0ODMzMywtMjA4MzM5NTk2NSwtMT
+M5MzIwMTE4NCwtMTQ2MTk0MjQyMSwtMTM4NTEwNjA4Myw3NzQ5
 NjQ2MTQsOTE5MjE3MDI1LDE1NDEyNDQ3MTUsNDYwNDEwMDg1LD
 ExMTQ0MDM0OTNdfQ==
 -->
