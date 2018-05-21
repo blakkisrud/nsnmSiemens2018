@@ -46,7 +46,7 @@ Det vi som vi husker var ute etter var å måle aktiviteten i "noe". Dette "noe"
 
 Hvis vi først ser veldig stort på det (linje med 10 %)
 
-OK, vi sk
+OK, vi skal ta 
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -55,8 +55,8 @@ OK, vi sk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Njc2NjE0MywtMTk2MTE0MTgyMCwtNT
-kwMjI0NDIxLC0xNDYxOTQyNDIxLC0xMzg1MTA2MDgzLDc3NDk2
+eyJoaXN0b3J5IjpbLTI2MzUwMzQ1MywtMjk2NzY2MTQzLC0xOT
+YxMTQxODIwLC0xNDYxOTQyNDIxLC0xMzg1MTA2MDgzLDc3NDk2
 NDYxNCw5MTkyMTcwMjUsMTU0MTI0NDcxNSw0NjA0MTAwODUsMT
 ExNDQwMzQ5M119
 -->
