@@ -26,7 +26,7 @@ De ulike bildene (nå kalt projeksjoner) blir så matet inn i en maskin som lage
 
 På veien kan mye gå galt - skal vi være tekniske og geeke out på alt vil det ta en god stund - men jeg vil fokusere på de tre største - de tre store stygge ulvene (beklager, det er litt politisk ladet - de tre stygge vepsene, veps har som kjent ingen annen funksjon enn å være kjipe) 
 
-Veps nummer  1 - Attenuasjon. Fotonene kommer ikke frem til detektoren, de blir stoppet på veien. Ser 
+Veps nummer  1 - Attenuasjon. Fotonene kommer ikke frem til detektoren, de blir stoppet på veien. Se
 SPECTens tre verste fiender - attenuasjon, spredning og partiell volumeffekt
 Svært mange men dette er de tre på topp - og de enkleste å forklare
 
@@ -43,6 +43,6 @@ Umulig å si - men noe kan jeg si
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgzMjYyOTIsMTU0MTI0NDcxNSw0Nj
-A0MTAwODUsMTExNDQwMzQ5M119
+eyJoaXN0b3J5IjpbLTE1NjAxNTk0NjIsLTE1MDgzMjYyOTIsMT
+U0MTI0NDcxNSw0NjA0MTAwODUsMTExNDQwMzQ5M119
 -->
