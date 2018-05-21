@@ -1,5 +1,13 @@
-\documentclass{beamer}
-\usetheme{metropolis}           % Use metropolis theme - has to compile with the xeTex (can be done on sharelatex) 
+\documentclass{beamer}[10pt]
+%\usetheme{metropolis}           % Use metropolis theme - has to compile with the xeTex (can be done on sharelatex) 
+
+\usetheme[progressbar=frametitle]{metropolis} % Have a progressbar instead
+\usepackage{appendixnumberbeamer}
+
+%\usepackage[utf8]{inputenc}
+
+\newenvironment{wideitemize}{\itemize\addtolength{\itemsep}{10pt}}{\enditemize}
+
 \title{Kvantitativ SPECT - Dosimetri}
 \date{\today}
 \author{Johan Blakkisrud}
@@ -9,13 +17,308 @@
 \maketitle
 
 \section{Introduksjon}
+
+\begin{frame}{Hvem er jeg?}
+
+\begin{itemize}
+    \item 
+    Stipendiat ved Oslo Universitetssykehus (pÂ ca tredje Âret)
+    \item
+    Fysiker (egentlig siv. ing. fra NTNU)
+    \item
+    Prosjektet jeg jobber i bruker SPECT/CT-bilder av den kvantitative formen
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Kvantitering}
+
+    Kvantitering (verb) - mÂle, telle. 
+    Tilordne til en \emph{kvantitet}
+
+\end{frame}
+
+\begin{frame}{Kvantitering}
+
+    \begin{columns}
+
+	\begin{column}{0.5 \textwidth}
+
+	    \center
+	    \begin{itemize}
+		\item<1->
+		    Infinitiv (hint: sett Â foran)
+		\item<3->
+		    Presens (hint: hva vi gj¯r nÂ)
+		\item<5->
+		    Preteritum futurum perfektum, Kondisjonalis II (hint: hva vi ikke vil si)
+	    \end{itemize}
+
+	\end{column}
+
+	\begin{column}{0.5 \textwidth}
+
+	    \center
+	    \begin{itemize}
+		\item<2->
+		    Kvantitere 
+		\item<4->
+		    Kvantiterer
+		\item <6->
+		    Ville/skulle ha kvantitert
+	    \end{itemize}
+	    
+	\end{column}
+    \end{columns}
+
+\end{frame}
+
+\begin{frame}{Kvantitere ifm. SPECT}
+
+    \center
+    Avbildning der bildene har enhet MBq/ml eller lignende
+
+\end{frame}
+
+\begin{frame}{Et dogme}
+
+    \center
+    PET er kvantitativt - SPECT er det ikke!
+
+\end{frame}
+
+\begin{frame}{Kvantitering mindre viktig}
+
+\end{frame}
+
+\begin{frame}{Kvantitering viktig}
+
+        %Kvantitering viktig\\[.2cm]
+    \begin{description}
+        \item
+            [Terapiplanlegning] Dosering av radionuklideterapi
+        \item
+            [Myocard-perfusjonsavbildning] 99m-Tc for Â mÂle blodgjennomstr¯mning i ml/g-min eller SUV-SPECT
+        \item
+            [Lungescan] Pre-operativ funksjon bÂde ventilasjon og perfusjon
+        \item
+            [131-I] Opptak post-terapi for Â monitorere effekt
+        \item
+            [Biodistribusjon] Utpr¯ving av nye radiofarmaka
+    \end{description}
+    
+\end{frame}
+
 \section{SPECT-kameraet}
+
+
+
+\begin{frame}{SPECT-kameraet}
+\begin{columns}[T]
+\begin{column}{.58\textwidth}
+    \only<1>{\resizebox{\textwidth}{!}{
+	    \includegraphics{graphics/camera_rot/img0}
+    }
+  }
+    \only<2>{\resizebox{\textwidth}{!}{
+      \includegraphics{graphics/camera_rot/img1}
+    }
+  }
+    \only<3>{\resizebox{\textwidth}{!}{
+      \includegraphics{graphics/camera_rot/img2}
+    }
+  }
+    \only<4>{\resizebox{\textwidth}{!}{
+      \includegraphics{graphics/camera_rot/img3}
+    }
+  }
+    \only<5>{\resizebox{\textwidth}{!}{
+      \includegraphics{graphics/camera_rot/img4}
+    }
+  }
+    \only<6>{\resizebox{\textwidth}{!}{
+      \includegraphics{graphics/camera_rot/img5}
+    }
+  }
+\end{column}
+\hfill
+\begin{column}{.4\textwidth}
+  \begin{wideitemize}
+  \item<1-> To radiaktive kilder
+  \item<2-> SPECT-kameraet tar bilde av en projeksjon
+  \item<3-> Roterer og tar et nytt bilde
+  %\item<4-> 
+  %\item<5-> 
+  %\item<6-> 
+  \end{wideitemize}
+  \end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Attenuasjon og spredning}
+
+    \begin{center}
+	\only<1>{\resizebox{0.88\linewidth}{!}{
+      \includegraphics{graphics/attenuation/att0}
+    }}
+    \only<2>{\resizebox{0.88\linewidth}{!}{
+      \includegraphics{graphics/attenuation/att1}
+    }}
+    \only<3>{\resizebox{0.88\linewidth}{!}{
+      \includegraphics{graphics/attenuation/att2}
+    }}
+    \end{center}
+
+\end{frame}
+    
+
+\begin{frame}{Partiell volumeffekt}
+    
+\end{frame}
+
+\begin{frame}{PET kvantitativ, men ikke SPECT?}
+
+\begin{itemize}
+    \item 
+        Spredt strÂling (var) et st¯rre problem (<5 \% i tidlig PET, nÂ 35 - 50 > \% for bÂde 3D PET og SPECT)
+    \item
+        PET ble "gjemt bort" i 20 Âr som forskningsobjekt - kinetikk med arteriell aktivitetskonsentrasjon som input
+    \item
+        Attenueringskorreksjon (var) mer rett frem i PET
+        
+\end{itemize}
+    
+\end{frame}
+
 \section{Kort motivasjon for dosimetri}
 \section{Fantomstudier - hvor er SPECT n√•?}
+
+
+\begin{frame}{Fantomstudier}
+
+    \begin{alertblock}{}
+        Dette er et veldig vanskelig sp¯rsmÂl!
+    \end{alertblock}
+    
+\end{frame}
+
+\begin{frame}{Fantomstudier}
+
+\begin{quote}
+    99mTc, 111In, 131I "To summarize: activity can be accurately meassured \textbf{(+/- 10 \%)} at least in uniformely attenuating parts of the body‚Ä¶ as small as 40 ml¬ª
+\end{quote}
+
+- Quantitative SPECT in radiation dosimetry (1989)
+    
+\end{frame}
+
+\begin{frame}{Fantomstudier}
+
+\begin{quote}
+    ‚Äú‚Ä¶the results should be improved image quality and, perhaps, quantitative \textbf{accuracies of about 10 \%}"
+\end{quote}
+
+- Quantitative SPECT Imaging (1995)
+    
+\end{frame}
+
+\begin{frame}{Fantomstudier}
+
+    \begin{quote}
+        ‚Äú‚Ä¶quantification based on a calibration procedure similar to the one used in PET seems to be feasible \textbf{within 10 \% error limits and even below } if a fine-tuning of all acquisition and reconstruction parameters is performed.‚Äù
+    \end{quote}
+    
+    - Quantitative capabilities of four state of the art SPECT/CT-systems (2012)
+    
+\end{frame}
+
+%\begin{frame}{Enkeltstudier}
+
+%\begin{columns}
+
+%\begin{column}{0.5 \linewidth}
+
+%\begin{description}
+%    \item
+%        [99mTc] - Kort beskrivelse
+%    \item
+%        [131-I] - Kort beskrivelse
+%    \item
+%        [177-Lu] - Kort beskrivelse
+%    
+%\end{description}
+%
+%\end{column}}
+
+%\end{columns}}
+    
+%\end{frame}
+
+\begin{frame}{Fantomstudier}
+
+Det kommer an pÂ en hel rekke ting:
+
+\begin{itemize}
+    \item 
+        Nukliden
+    \item
+        Organet man vil mÂle i (st¯rrelse, form og plassering)
+    \item
+        Bildeprotokoll
+    \item
+        Kalibreringsmetoden
+    \item
+        ...
+    \item
+        ...
+        
+\end{itemize}
+    
+\end{frame}
+
+\begin{frame}{Fantomstudier}
+
+Hva kan du forvente?
+
+\begin{description}
+    \item
+    [Tommelfingerregel] Omkring 10 \%
+    \item
+    [Om du vet hva du gj¯r] Under omkring 5 \%
+    \item
+    [Om du \textbf{ikke} vet hva du gj¯r] Mer enn 50 \%
+\end{description}
+    
+\end{frame}
+
+\section{SUV-SPECT}
+
+% A novel SUV-based quantification of 99mTc-MDP SPECT/CT uptake and 18F-FDG % PET/CT metabolism in patients with lumbar disc herniation
+
+% SUV measurement of normal vertebrae using SPECT/CT with Tc-99m methylene % diphosphonate
+
+
+\section{xSPECT}
+
+\begin{frame}{Comments}
+
+\begin{quote}
+    Gir bildene en ekstra nytteverdi - selv om man ikke bruker dem hver gang er de fine √• ha. 
+\end{quote}
+    
+\end{frame}
+
+\begin{frame}{Comments}
+
+\begin{quote}
+    Life without you would be like a broken pencil... pointless! 
+\end{quote}
+- Edmund Blackadder
+    
+\end{frame}
+
+
 \section{Eget arbeid}
 
-\begin{frame}{First Frame}
-  Hello, world!
-\end{frame}
 
 \end{document}
