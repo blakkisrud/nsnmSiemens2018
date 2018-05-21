@@ -36,7 +36,7 @@ Kort motivasjon for dosimetri
 
 ## Hvor er SPECT nå?
 
-Umulig å si - men noe kan jeg si. SPECT er vesentlig bedre enn det var før SPECT og PET skilte veier 
+Umulig å si - men noe kan jeg si. SPECT er vesentlig bedre enn det var før SPECT og PET skilte veier.
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -45,7 +45,7 @@ Umulig å si - men noe kan jeg si. SPECT er vesentlig bedre enn det var før SPE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0OTY0NjE0LC0xMzYwMzY1MTgsLTExMz
-IyNTQ4NTUsOTE5MjE3MDI1LDE1NDEyNDQ3MTUsNDYwNDEwMDg1
+eyJoaXN0b3J5IjpbLTE5NTcxODM5NDQsNzc0OTY0NjE0LC0xMz
+YwMzY1MTgsOTE5MjE3MDI1LDE1NDEyNDQ3MTUsNDYwNDEwMDg1
 LDExMTQ0MDM0OTNdfQ==
 -->
