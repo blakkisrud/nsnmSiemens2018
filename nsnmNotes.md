@@ -46,7 +46,7 @@ Det vi som vi husker var ute etter var å måle aktiviteten i "noe". Dette "noe"
 
 Hvis vi først ser veldig stort på det (linje med 10 %)
 
-OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsomt at denne 10-prosenten dukket opp over et tidspenn på mer enn levealderen min. La oss ta en titt på noen fantom-eksperimenter. Vi er glade i fantomer, til forskjell fra mennesker bryr de seg ikke om upassende vitser, man kan fylle dem med så mye aktivitet man vil - og de ligger svært stille om de får tilstrekkelig støtte. Nå - kvantitering er veldig nuklide-avhengig, ta en nuklide vi liker veldig godt - 99mTc - relativt kort halveringstid, mye brukt i diagnostikk - det er også isotopen med lavest atomnummer som er radioakti
+OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsomt at denne 10-prosenten dukket opp over et tidspenn på mer enn levealderen min. La oss ta en titt på noen fantom-eksperimenter. Vi er glade i fantomer, til forskjell fra mennesker bryr de seg ikke om upassende vitser, man kan fylle dem med så mye aktivitet man vil - og de ligger svært stille om de får tilstrekkelig støtte. Nå - kvantitering er veldig nuklide-avhengig, ta en nuklide vi liker veldig godt - 99mTc - relativt kort halveringstid, mye brukt i diagnostikk - det er også isotopen med lavest atomnummer som er radioaktiv (så v
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -55,8 +55,8 @@ OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsom
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTgxODIzNSwtMTYzNzY2NTQ1NCwxMz
-cyNjQ4MzMzLC0xNDYxOTQyNDIxLC0xMzg1MTA2MDgzLDc3NDk2
-NDYxNCw5MTkyMTcwMjUsMTU0MTI0NDcxNSw0NjA0MTAwODUsMT
-ExNDQwMzQ5M119
+eyJoaXN0b3J5IjpbLTkwODk2MTgzNSwxNzk5ODE4MjM1LC0xNj
+M3NjY1NDU0LDEzNzI2NDgzMzMsLTE0NjE5NDI0MjEsLTEzODUx
+MDYwODMsNzc0OTY0NjE0LDkxOTIxNzAyNSwxNTQxMjQ0NzE1LD
+Q2MDQxMDA4NSwxMTE0NDAzNDkzXX0=
 -->
