@@ -18,15 +18,17 @@ Eksempler der kvantitering er mer eller mindre viktig
 
 SPECT-ens historie
 
-SPECT-ens virkemåte. Detektere 
+SPECT-ens virkemåte. Detektere fotoner fra pasienten på best mulig måte. 
 
 SPECTens tre verste fiender - attenuasjon, spredning og partiell volumeffekt
-Svært mange 
+Svært mange men dette er de tre på topp - og de enkleste å forklare
 
-Motivasjon for dosimetri
+Kort motivasjon for dosimetri
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM1MTExMDEsLTE2MzAxMTkzMTAsMj
-EyMDc5OTYwMywtMTAwODU0ODExNCwtNjM5NDAyMjg0LC0xMDA4
+eyJoaXN0b3J5IjpbLTEzMjE3NjU5OSwtMTkyMzUxMTEwMSwtMT
+YzMDExOTMxMCwtMTAwODU0ODExNCwtNjM5NDAyMjg0LC0xMDA4
 NTQ4MTE0XX0=
 -->
