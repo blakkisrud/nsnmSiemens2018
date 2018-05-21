@@ -52,7 +52,7 @@ OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsom
 
 Dette virker jo veldig bra - supert! Går vi litt nærmere inn så ser vi
 
-Men vi har også jukset litt - 99mTc 
+Men vi har også jukset litt - 99mTc er en 
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -61,9 +61,9 @@ Men vi har også jukset litt - 99mTc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE4MTcyNjQsMTQ3ODI0OTk0MSwtMT
-A4MTcyNzc0MCwtOTA4OTYxODM1LC0xNjM3NjY1NDU0LDEzNzI2
-NDgzMzMsLTE0NjE5NDI0MjEsLTEzODUxMDYwODMsNzc0OTY0Nj
-E0LDkxOTIxNzAyNSwxNTQxMjQ0NzE1LDQ2MDQxMDA4NSwxMTE0
-NDAzNDkzXX0=
+eyJoaXN0b3J5IjpbLTE4MjIwOTc5NDAsLTE1NTE4MTcyNjQsMT
+Q3ODI0OTk0MSwtMTA4MTcyNzc0MCwtOTA4OTYxODM1LC0xNjM3
+NjY1NDU0LDEzNzI2NDgzMzMsLTE0NjE5NDI0MjEsLTEzODUxMD
+YwODMsNzc0OTY0NjE0LDkxOTIxNzAyNSwxNTQxMjQ0NzE1LDQ2
+MDQxMDA4NSwxMTE0NDAzNDkzXX0=
 -->
