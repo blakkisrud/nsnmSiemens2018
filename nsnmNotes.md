@@ -18,9 +18,9 @@ Eksempler der kvantitering er mer eller mindre viktig
 
 SPECT-ens historie
 
-
+Motivasjon for dosimetri
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjM2OTY4LC0xMDA4NTQ4MTE0LC02Mz
-k0MDIyODQsLTEwMDg1NDgxMTRdfQ==
+eyJoaXN0b3J5IjpbLTE0NTM0OTIyODMsLTEwMDg1NDgxMTQsLT
+YzOTQwMjI4NCwtMTAwODU0ODExNF19
 -->
