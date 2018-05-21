@@ -1,0 +1,66 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\usepackage{pgfplots}
+
+\pgfplotsset{compat = 1.15}
+
+
+\pgfmathdeclarefunction{gauss}{3}{%
+  \pgfmathparse{1/(#3*sqrt(2*pi))*exp(-((#1-#2)^2)/(2*#3^2))}%
+}
+
+\begin{document}
+
+\begin{tikzpicture}
+    
+    \draw[thick] (-10, -10) -- (10, -10) -- (10, 10);
+
+    %\draw[step = 1.0cm, black, ultra thin] (0,0) grid(20, 20);
+    
+    \begin{scope}[xshift = 0]
+    
+    % Circle one
+    
+    \draw[thick] (0,0) circle (3cm);
+    \draw[fill=blue!40!white, draw=black] (-1,0) circle (0.5cm);
+    \draw[fill=red!40!white, draw=black] (1,0) circle (0.5cm);
+    
+    \end{scope}
+    
+    %\begin{scope}[xshift = 25cm, yshift = -20.0cm,  rotate around= {-45:(24,14)}]
+    \begin{scope}[xshift = 0cm, yshift = 0cm,  rotate around= {-90:(0,0)}]
+    
+    % Camera-config 1
+    
+    \draw[thick, fill=gray] (-2, 8) rectangle (2,9);
+    
+    % Camera-beam 1
+    
+    \draw[ultra thick] (0, 8) -- (-3, -4);
+    \draw[ultra thick] (0, 8) -- (3, -4);
+    \draw[ultra thick] (-3, -4) -- (3, -4);
+
+    
+      \begin{axis}[rotate around={180:(current axis.origin)},
+        anchor = origin,
+        axis lines*=center,
+        x = 1cm,
+        at = {(3.3cm, -0.7cm)},
+        xtick=\empty, ytick=\empty,
+        style = {samples = 300, smooth},
+        height = 3cm,
+        width = 2cm,% scale only axis,
+        hide axis
+        ]
+        
+        \addplot [mark = none, orange, restrict x to domain = -2:2] {gauss(x, 0, 0.25)};
+
+    
+    \end{axis}
+    
+    \end{scope}
+    
+
+\end{tikzpicture}
+
+\end{document}
