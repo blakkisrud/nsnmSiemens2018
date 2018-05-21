@@ -52,7 +52,7 @@ OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsom
 
 Dette virker jo veldig bra - supert! Går vi litt nærmere inn så ser vi
 
-Men vi har også jukset litt - 99mTc er en 
+Men vi har også jukset litt - 99mTc er en helt fantastisk bilde-isotop. Den har én kraftig gamma-komponent og relativt enkel å avbilde. La oss ta for oss en annen isotop - min personlige favoritt - 177Lu
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -61,8 +61,8 @@ Men vi har også jukset litt - 99mTc er en
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIwOTc5NDAsLTE1NTE4MTcyNjQsMT
-Q3ODI0OTk0MSwtMTA4MTcyNzc0MCwtOTA4OTYxODM1LC0xNjM3
+eyJoaXN0b3J5IjpbMTcxMjE4NDIwOSwtMTgyMjA5Nzk0MCwtMT
+U1MTgxNzI2NCwtMTA4MTcyNzc0MCwtOTA4OTYxODM1LC0xNjM3
 NjY1NDU0LDEzNzI2NDgzMzMsLTE0NjE5NDI0MjEsLTEzODUxMD
 YwODMsNzc0OTY0NjE0LDkxOTIxNzAyNSwxNTQxMjQ0NzE1LDQ2
 MDQxMDA4NSwxMTE0NDAzNDkzXX0=
