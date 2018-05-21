@@ -30,15 +30,13 @@ Veps nummer  1 - Attenuasjon. Fotonene kommer ikke frem til detektoren, de blir 
 
 Veps nummer 2 - Spredning - her blir ikke fotonet borte, men det endrer retning og energi, og når vi detekterer det så lyver det om hvor det kom ifra(!)
 
-Veps nummer 3 - Partiell volumeffekt - Denne kan jeg desverre ik
-SPECTens tre verste fiender - attenuasjon, spredning og partiell volumeffekt
-Svært mange men dette er de tre på topp - og de enkleste å forklare
+Veps nummer 3 - Partiell volumeffekt - Denne kan jeg dessverre ikke forklare med fotoner - men årsaken er at 
 
 Kort motivasjon for dosimetri
 
 ## Hvor er SPECT nå?
 
-Umulig å si - men noe kan jeg si
+Umulig å si - men noe kan jeg si. SPECT er vesentlig bedre enn det var før SPECT og PET skilt
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -47,7 +45,7 @@ Umulig å si - men noe kan jeg si
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzIyNTQ4NTUsLTQ0MTgyMzM0Myw0Nz
-E1Mzc1NzYsOTE5MjE3MDI1LDE1NDEyNDQ3MTUsNDYwNDEwMDg1
-LDExMTQ0MDM0OTNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjAzNjUxOCwtMTEzMjI1NDg1NSwtND
+QxODIzMzQzLDkxOTIxNzAyNSwxNTQxMjQ0NzE1LDQ2MDQxMDA4
+NSwxMTE0NDAzNDkzXX0=
 -->
