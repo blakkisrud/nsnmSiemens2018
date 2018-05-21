@@ -33,10 +33,12 @@ Umulig å si - men noe kan jeg si
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
+## xSPECT
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDk1MTAzNCw1OTM3MTIyNTEsLTE5MD
+eyJoaXN0b3J5IjpbMTExNDQwMzQ5Myw1OTM3MTIyNTEsLTE5MD
 Y3NzIxNDcsLTEwMDg1NDgxMTQsLTYzOTQwMjI4NCwtMTAwODU0
 ODExNF19
 -->
