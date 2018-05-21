@@ -20,7 +20,7 @@ SPECT-ens historie
 
 ### SPECT-kameraet
 
-SPECT-ens virkemåte. SPECT er ikke noe mer hokus pokus enn et kamera som kan rotere rundt pasienten. Det eneste det gjør er å forsøke å detektere fotoner som kommer fra inne i pasitenten, og ta med de som treffer rett på. Figuren viser to ulike Detektere fotoner fra pasienten på best mulig måte. 
+SPECT-ens virkemåte. SPECT er ikke noe mer hokus pokus enn et kamera som kan rotere rundt pasienten. Det eneste det gjør er å forsøke å detektere fotoner som kommer fra inne i pasitenten, og ta med de som treffer rett på. Figuren viser to kilder Detektere fotoner fra pasienten på best mulig måte. 
 
 SPECTens tre verste fiender - attenuasjon, spredning og partiell volumeffekt
 Svært mange men dette er de tre på topp - og de enkleste å forklare
@@ -38,6 +38,6 @@ Umulig å si - men noe kan jeg si
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDU1MjExNCw0MDI1OTEyODcsMTExND
-QwMzQ5M119
+eyJoaXN0b3J5IjpbLTI3MDMxOTY1MSwtOTE0NTUyMTE0LDQwMj
+U5MTI4NywxMTE0NDAzNDkzXX0=
 -->
