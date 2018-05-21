@@ -17,7 +17,6 @@ Introduksjon av dogmet PET vs SPECT
 Eksempler der kvantitering er mer eller mindre viktig
 
 
-
 SPECT-ens historie
 
 SPECT-ens virkemåte. Detektere fotoner fra pasienten på best mulig måte. 
@@ -30,7 +29,7 @@ Kort motivasjon for dosimetri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY3NzIxNDcsLTEzMjE3NjU5OSwtMT
-kyMzUxMTEwMSwtMTAwODU0ODExNCwtNjM5NDAyMjg0LC0xMDA4
-NTQ4MTE0XX0=
+eyJoaXN0b3J5IjpbNTkzNzEyMjUxLC0xOTA2NzcyMTQ3LC0xMz
+IxNzY1OTksLTEwMDg1NDgxMTQsLTYzOTQwMjI4NCwtMTAwODU0
+ODExNF19
 -->
