@@ -30,7 +30,7 @@ Veps nummer  1 - Attenuasjon. Fotonene kommer ikke frem til detektoren, de blir 
 
 Veps nummer 2 - Spredning - her blir ikke fotonet borte, men det endrer retning og energi, og når vi detekterer det så lyver det om hvor det kom ifra(!)
 
-Veps nummer 3 - Partiell volumeffekt - Denne kan jeg 
+Veps nummer 3 - Partiell volumeffekt - Denne kan jeg desverre ik
 SPECTens tre verste fiender - attenuasjon, spredning og partiell volumeffekt
 Svært mange men dette er de tre på topp - og de enkleste å forklare
 
@@ -47,7 +47,7 @@ Umulig å si - men noe kan jeg si
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTgyMzM0Myw0NzE1Mzc1NzYsOTE5Mj
-E3MDI1LDE1NDEyNDQ3MTUsNDYwNDEwMDg1LDExMTQ0MDM0OTNd
-fQ==
+eyJoaXN0b3J5IjpbLTExMzIyNTQ4NTUsLTQ0MTgyMzM0Myw0Nz
+E1Mzc1NzYsOTE5MjE3MDI1LDE1NDEyNDQ3MTUsNDYwNDEwMDg1
+LDExMTQ0MDM0OTNdfQ==
 -->
