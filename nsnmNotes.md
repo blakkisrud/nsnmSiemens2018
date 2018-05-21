@@ -42,7 +42,7 @@ Umulig å si - men noe kan jeg si. SPECT er vesentlig bedre enn det var før SPE
 
 Det vi som vi husker var ute etter var å måle aktiviteten i "noe". Dette "noe" er større eller mindre områder av pasienten. Hvordan vi kan måle "suksessen" av dette i praksis er vanskelig - det blir fort veldig kompleks. Så la oss fokusere på noe enkelt - vi ønsker å måle aktiviteten (i MBq) i et organ inne i pasienten - hvor langt unna (i prosent) er vi den virkelig verdier
 
-(Figur med målt verdie
+(Figur med målt verdi vs/
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -51,7 +51,8 @@ Det vi som vi husker var ute etter var å måle aktiviteten i "noe". Dette "noe"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDIyNDQyMSwtMjc1NzYxMjIsLTE0Nj
-E5NDI0MjEsLTEzODUxMDYwODMsNzc0OTY0NjE0LDkxOTIxNzAy
-NSwxNTQxMjQ0NzE1LDQ2MDQxMDA4NSwxMTE0NDAzNDkzXX0=
+eyJoaXN0b3J5IjpbLTE5NjExNDE4MjAsLTU5MDIyNDQyMSwtMj
+c1NzYxMjIsLTE0NjE5NDI0MjEsLTEzODUxMDYwODMsNzc0OTY0
+NjE0LDkxOTIxNzAyNSwxNTQxMjQ0NzE1LDQ2MDQxMDA4NSwxMT
+E0NDAzNDkzXX0=
 -->
