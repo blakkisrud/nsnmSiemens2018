@@ -46,7 +46,7 @@ Det vi som vi husker var ute etter var å måle aktiviteten i "noe". Dette "noe"
 
 Hvis vi først ser veldig stort på det (linje med 10 %)
 
-OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsomt at denne 10-prosenten dukket opp over et tidspenn på mer enn levealderen min. La oss ta en titt på noen fantom-eksperimente
+OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsomt at denne 10-prosenten dukket opp over et tidspenn på mer enn levealderen min. La oss ta en titt på noen fantom-eksperimenter. Vi er glade i fantomer, til forskjell fra mennesker bryr de seg ikke om upassende vitser, man kan fylle dem med så mye aktivitet man vil - og de ligger svært stille om de får tilstrekkelig støtte. Nå - 
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -55,8 +55,8 @@ OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsom
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc2NjU0NTQsMTM3MjY0ODMzMywtMj
-A4MzM5NTk2NSwtMTQ2MTk0MjQyMSwtMTM4NTEwNjA4Myw3NzQ5
+eyJoaXN0b3J5IjpbLTEwNTM5MzI0MzUsLTE2Mzc2NjU0NTQsMT
+M3MjY0ODMzMywtMTQ2MTk0MjQyMSwtMTM4NTEwNjA4Myw3NzQ5
 NjQ2MTQsOTE5MjE3MDI1LDE1NDEyNDQ3MTUsNDYwNDEwMDg1LD
 ExMTQ0MDM0OTNdfQ==
 -->
