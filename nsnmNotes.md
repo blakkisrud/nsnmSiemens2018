@@ -24,7 +24,7 @@ SPECT-ens virkemåte. SPECT er ikke noe mer hokus pokus enn et kamera som kan ro
 
 De ulike bildene (nå kalt projeksjoner) blir så matet inn i en maskin som lager et tomografisk bilde - omtrent sånn.
 
-På veien kan mye gå galt - skal vi være tekniske og geeke out på alt vil det ta en god stund - men jeg vil fokusere på de tre største - de tre store stygge ulvene (beklager, det er litt politisk ladet i likhet med dieselbilder innenfor ring - de tre stygge vepsene, veps har som kjent ingen annen funksjon enn å være kjipe) 
+På veien kan mye gå galt - skal vi være tekniske og geeke out på alt vil det ta en god stund - men jeg vil fokusere på de tre største - de tre store stygge ulvene (beklager, det er litt politisk ladet i likhet med dieselbilder innenfor ring 1 og - de tre stygge vepsene, veps har som kjent ingen annen funksjon enn å være kjipe) 
 
 Veps nummer  1 - Attenuasjon. Fotonene kommer ikke frem til detektoren, de blir stoppet på veien. Hvis vi ser på figuren ser vi to store kilder osv. osv
 
@@ -45,7 +45,7 @@ Umulig å si - men noe kan jeg si
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Nzc5MzE4Miw5MTkyMTcwMjUsLTE1Nj
-AxNTk0NjIsMTU0MTI0NDcxNSw0NjA0MTAwODUsMTExNDQwMzQ5
-M119
+eyJoaXN0b3J5IjpbLTM5ODQ1NzEzOSwxNzY3NzkzMTgyLDkxOT
+IxNzAyNSwxNTQxMjQ0NzE1LDQ2MDQxMDA4NSwxMTE0NDAzNDkz
+XX0=
 -->
