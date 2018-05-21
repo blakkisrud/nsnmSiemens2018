@@ -52,7 +52,7 @@ OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsom
 
 Dette virker jo veldig bra - supert! Går vi litt nærmere inn så ser vi
 
-Men vi har også jukset litt - 99mTc er en helt fantastisk bilde-isotop. Den har én kraftig gamma-komponent og relativt enkel å avbilde. La oss ta for oss en annen isotop - min personlige favoritt - 177Lu. Av de litt rarere er den fortsatt regnet som en "god" bildeisotop - eksempel-bildet mitt fra isted var fra en pasient fra prosjektet mitt med en relativt beskjeden dose (ca halvparten var også
+Men vi har også jukset litt - 99mTc er en helt fantastisk bilde-isotop. Den har én kraftig gamma-komponent og relativt enkel å avbilde. La oss ta for oss en annen isotop - min personlige favoritt - 177Lu. Av de litt rarere er den fortsatt regnet som en "god" bildeisotop - eksempel-bildet mitt fra isted var fra en pasient fra prosjektet mitt med en relativt beskjeden dose (ca halvparten var også ute på dette tidspunktet) men allikevel har vi et ganske godt bilde. 
 
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
@@ -61,8 +61,8 @@ Men vi har også jukset litt - 99mTc er en helt fantastisk bilde-isotop. Den har
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzEzOTkzMCwtMTM2NjY4NTg5NywxOT
-g3ODUyMzYxLC0xODIyMDk3OTQwLC0xNTUxODE3MjY0LC0xMDgx
+eyJoaXN0b3J5IjpbMTIwODIyODUyOCwtNTczMTM5OTMwLC0xMz
+Y2Njg1ODk3LC0xODIyMDk3OTQwLC0xNTUxODE3MjY0LC0xMDgx
 NzI3NzQwLC05MDg5NjE4MzUsLTE2Mzc2NjU0NTQsMTM3MjY0OD
 MzMywtMTQ2MTk0MjQyMSwtMTM4NTEwNjA4Myw3NzQ5NjQ2MTQs
 OTE5MjE3MDI1LDE1NDEyNDQ3MTUsNDYwNDEwMDg1LDExMTQ0MD
