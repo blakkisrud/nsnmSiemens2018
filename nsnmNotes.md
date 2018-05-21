@@ -48,6 +48,12 @@ Hvis vi først ser veldig stort på det (linje med 10 %)
 
 OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsomt at denne 10-prosenten dukket opp over et tidspenn på mer enn levealderen min. La oss ta en titt på noen fantom-eksperimenter. Vi er glade i fantomer, til forskjell fra mennesker bryr de seg ikke om upassende vitser, man kan fylle dem med så mye aktivitet man vil - og de ligger svært stille om de får tilstrekkelig støtte. Nå - kvantitering er veldig nuklide-avhengig, ta en nuklide vi liker veldig godt - 99mTc - relativt kort halveringstid, mye brukt i diagnostikk - det er også isotopen med lavest atomnummer som er radioaktiv (så vet dere det). 
 
+*	Et eksempel på 99mTc
+
+Dette virker jo veldig bra - supert! Går vi litt nærmere inn så ser vi
+
+Men vi har også jukset litt - 99m
+
 ## SUV-SPECT - noen eksempler der vi kan bruke kvantitering direkte som ikke er dosimetri
 
 ## xSPECT
@@ -55,7 +61,7 @@ OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsom
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDg5Mzk5OCwtMTA4MTcyNzc0MCwtOT
+eyJoaXN0b3J5IjpbMTQ3ODI0OTk0MSwtMTA4MTcyNzc0MCwtOT
 A4OTYxODM1LC0xNjM3NjY1NDU0LDEzNzI2NDgzMzMsLTE0NjE5
 NDI0MjEsLTEzODUxMDYwODMsNzc0OTY0NjE0LDkxOTIxNzAyNS
 wxNTQxMjQ0NzE1LDQ2MDQxMDA4NSwxMTE0NDAzNDkzXX0=
