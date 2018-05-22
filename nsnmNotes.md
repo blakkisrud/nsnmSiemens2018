@@ -49,7 +49,7 @@ Hvis vi først ser veldig stort på det (linje med 10 %)
 OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsomt at denne 10-prosenten dukket opp over et tidspenn på mer enn levealderen min. La oss ta en titt på noen fantom-eksperimenter. Vi er glade i fantomer, til forskjell fra mennesker bryr de seg ikke om upassende vitser, man kan fylle dem med så mye aktivitet man vil - og de ligger svært stille om de får tilstrekkelig støtte. Nå - kvantitering er veldig nuklide-avhengig, ta en nuklide vi liker veldig godt - 99mTc - relativt kort halveringstid, mye brukt i diagnostikk - det er også isotopen med lavest atomnummer som er radioaktiv (så vet dere det). 
 
 *	Et eksempel på 99mTc
-Kuler - ligner på tumorer, og en stor sylinder som kan substituere et "stort" organ. Ser vi på aktivitetskonsentrasjonen i det store organet ser ser det ganske så br
+Kuler - ligner på tumorer, og en stor sylinder som kan substituere et "stort" organ. Ser vi på aktivitetskonsentrasjonen i det store organet ser ser det ganske så bra ut - vi er innenfor noen-og-fem prosent og det er bra. Ser vi på kulene, ser vi at vi mister masse aktiviet. Dette er partiell 
 
 Dette virker jo veldig bra - supert! Går vi litt nærmere inn så ser vi 
 
@@ -62,11 +62,11 @@ Men vi har også jukset litt - 99mTc er en helt fantastisk bilde-isotop. Den har
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTQ2MzQ3NiwxMTk3MTIyOTAzLDE5OT
-U4MDk4NTYsMTIwODIyODUyOCwtNTczMTM5OTMwLC0xMzY2Njg1
-ODk3LC0xODIyMDk3OTQwLC0xNTUxODE3MjY0LC0xMDgxNzI3Nz
-QwLC05MDg5NjE4MzUsLTE2Mzc2NjU0NTQsMTM3MjY0ODMzMywt
-MTQ2MTk0MjQyMSwtMTM4NTEwNjA4Myw3NzQ5NjQ2MTQsOTE5Mj
-E3MDI1LDE1NDEyNDQ3MTUsNDYwNDEwMDg1LDExMTQ0MDM0OTNd
-fQ==
+eyJoaXN0b3J5IjpbNTU2MDM1NzY1LC04MDE0NjM0NzYsMTE5Nz
+EyMjkwMywxMjA4MjI4NTI4LC01NzMxMzk5MzAsLTEzNjY2ODU4
+OTcsLTE4MjIwOTc5NDAsLTE1NTE4MTcyNjQsLTEwODE3Mjc3ND
+AsLTkwODk2MTgzNSwtMTYzNzY2NTQ1NCwxMzcyNjQ4MzMzLC0x
+NDYxOTQyNDIxLC0xMzg1MTA2MDgzLDc3NDk2NDYxNCw5MTkyMT
+cwMjUsMTU0MTI0NDcxNSw0NjA0MTAwODUsMTExNDQwMzQ5M119
+
 -->
