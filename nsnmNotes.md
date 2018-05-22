@@ -49,8 +49,9 @@ Hvis vi først ser veldig stort på det (linje med 10 %)
 OK, vi skal ta dette med en stor klype salt - men jeg syntes bare det var morsomt at denne 10-prosenten dukket opp over et tidspenn på mer enn levealderen min. La oss ta en titt på noen fantom-eksperimenter. Vi er glade i fantomer, til forskjell fra mennesker bryr de seg ikke om upassende vitser, man kan fylle dem med så mye aktivitet man vil - og de ligger svært stille om de får tilstrekkelig støtte. Nå - kvantitering er veldig nuklide-avhengig, ta en nuklide vi liker veldig godt - 99mTc - relativt kort halveringstid, mye brukt i diagnostikk - det er også isotopen med lavest atomnummer som er radioaktiv (så vet dere det). 
 
 *	Et eksempel på 99mTc
+Kuler - ligner på tumorer, og en stor sylinder som kan substituere et "stort" organ. Ser vi på aktivitetskonsentrasjonen i det store organet ser 
 
-Dette virker jo veldig bra - supert! Går vi litt nærmere inn så ser vi
+Dette virker jo veldig bra - supert! Går vi litt nærmere inn så ser vi 
 
 Men vi har også jukset litt - 99mTc er en helt fantastisk bilde-isotop. Den har én kraftig gamma-komponent og relativt enkel å avbilde. La oss ta for oss en annen isotop - min personlige favoritt - 177Lu. Av de litt rarere er den fortsatt regnet som en "god" bildeisotop - eksempel-bildet mitt fra isted var fra en pasient fra prosjektet mitt med en relativt beskjeden dose (ca halvparten var også ute på dette tidspunktet) men allikevel har vi et ganske godt bilde. 
 
@@ -61,10 +62,10 @@ Men vi har også jukset litt - 99mTc er en helt fantastisk bilde-isotop. Den har
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODIyODUyOCwtNTczMTM5OTMwLC0xMz
-Y2Njg1ODk3LC0xODIyMDk3OTQwLC0xNTUxODE3MjY0LC0xMDgx
-NzI3NzQwLC05MDg5NjE4MzUsLTE2Mzc2NjU0NTQsMTM3MjY0OD
-MzMywtMTQ2MTk0MjQyMSwtMTM4NTEwNjA4Myw3NzQ5NjQ2MTQs
-OTE5MjE3MDI1LDE1NDEyNDQ3MTUsNDYwNDEwMDg1LDExMTQ0MD
-M0OTNdfQ==
+eyJoaXN0b3J5IjpbLTc4NjAxNjIwOCwxMjA4MjI4NTI4LC01Nz
+MxMzk5MzAsLTEzNjY2ODU4OTcsLTE4MjIwOTc5NDAsLTE1NTE4
+MTcyNjQsLTEwODE3Mjc3NDAsLTkwODk2MTgzNSwtMTYzNzY2NT
+Q1NCwxMzcyNjQ4MzMzLC0xNDYxOTQyNDIxLC0xMzg1MTA2MDgz
+LDc3NDk2NDYxNCw5MTkyMTcwMjUsMTU0MTI0NDcxNSw0NjA0MT
+AwODUsMTExNDQwMzQ5M119
 -->
