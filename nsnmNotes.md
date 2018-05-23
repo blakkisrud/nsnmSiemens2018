@@ -5,7 +5,7 @@ johbla@ous-hf.no
 ### TODO: 23. mai
 
 *	Større font på tidslinjen
-*	Inkorporere mer rundtd
+*	Inkorporere mer rundt eget ar
 
 
 ## Introduksjon
@@ -70,11 +70,11 @@ Men vi har også jukset litt - 99mTc er en svært god bilde-isotop. Den har én 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MTE2MzEsLTkzNDY1MzQzMSwtMjAxMD
-I0MTE5LC02OTY2NTgzOTksMTExNTQ5NDA1OCwxMjA4MjI4NTI4
-LC01NzMxMzk5MzAsLTEzNjY2ODU4OTcsLTE4MjIwOTc5NDAsLT
-E1NTE4MTcyNjQsLTEwODE3Mjc3NDAsLTkwODk2MTgzNSwtMTYz
-NzY2NTQ1NCwxMzcyNjQ4MzMzLC0xNDYxOTQyNDIxLC0xMzg1MT
-A2MDgzLDc3NDk2NDYxNCw5MTkyMTcwMjUsMTU0MTI0NDcxNSw0
-NjA0MTAwODVdfQ==
+eyJoaXN0b3J5IjpbLTEzMTc2NjY0NjMsODY4MTE2MzEsLTkzND
+Y1MzQzMSwtMjAxMDI0MTE5LC02OTY2NTgzOTksMTExNTQ5NDA1
+OCwxMjA4MjI4NTI4LC01NzMxMzk5MzAsLTEzNjY2ODU4OTcsLT
+E4MjIwOTc5NDAsLTE1NTE4MTcyNjQsLTEwODE3Mjc3NDAsLTkw
+ODk2MTgzNSwtMTYzNzY2NTQ1NCwxMzcyNjQ4MzMzLC0xNDYxOT
+QyNDIxLC0xMzg1MTA2MDgzLDc3NDk2NDYxNCw5MTkyMTcwMjUs
+MTU0MTI0NDcxNV19
 -->
