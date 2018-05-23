@@ -6,6 +6,7 @@ johbla@ous-hf.no
 
 *	Større font på tidslinjen
 *	Inkorporere mer rundt eget arbeid
+*	Legg inn 
 
 
 ## Introduksjon
@@ -70,7 +71,7 @@ Men vi har også jukset litt - 99mTc er en svært god bilde-isotop. Den har én 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTU4Nzk3MSwtMTMxNzY2NjQ2Myw4Nj
+eyJoaXN0b3J5IjpbMjA2NDQwMjgzNywtMTMxNzY2NjQ2Myw4Nj
 gxMTYzMSwtMjAxMDI0MTE5LC02OTY2NTgzOTksMTExNTQ5NDA1
 OCwxMjA4MjI4NTI4LC01NzMxMzk5MzAsLTEzNjY2ODU4OTcsLT
 E4MjIwOTc5NDAsLTE1NTE4MTcyNjQsLTEwODE3Mjc3NDAsLTkw
